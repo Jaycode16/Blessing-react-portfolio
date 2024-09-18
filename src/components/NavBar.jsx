@@ -59,14 +59,14 @@ export const NavBar = () => {
             <HiOutlineMail size={30}/>
             </>
         ),
-        href: 'mailto:bublessingsmart@gmail.com',
+        href: 'mailto:jonathanoboh21@gmail.com',
         },
     ];
 
   return (
     <div className='flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed'>
         <div>
-        <h1 className='text-5xl font-signature ml-2'>Blessing</h1>
+        <h1 className='text-5xl font-signature ml-2'>Oboh Jonathan</h1>
         </div>
 
         <ul className="hidden md:flex">
